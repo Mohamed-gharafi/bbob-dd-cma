@@ -1,0 +1,16 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.235000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.365678814e+01 +1.130678814e+01 +1.130678814e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+4 0 +6.860097477e+00 -4.548990252e+01 -4.548990252e+01 +2.6577e+00 -2.5611e-01 +1.6528e+00 -4.0953e+00 -1.7382e+00
+6 0 +4.387935007e+00 -4.796206499e+01 -4.796206499e+01 +5.9601e-01 -2.7204e+00 +1.9751e+00 -1.9652e+00 +6.5528e-01
+13 0 +3.907101004e+00 -4.844289900e+01 -4.844289900e+01 -1.8051e+00 -1.7086e+00 +2.9668e+00 -3.7416e+00 +7.1486e-03
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.795400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +4.659982524e+01 -1.329401748e+02 -1.329401748e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (7.731000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.790293055e+00 +8.310029306e+01 +8.310029306e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+6 0 +5.649200475e+00 +8.295920048e+01 +8.295920048e+01 +6.7485e-01 -1.4901e+00 -1.2138e+00 +1.0519e+00 +9.5394e-01
+12 0 +5.472072575e+00 +8.278207257e+01 +8.278207257e+01 -2.6349e-01 +1.9017e+00 -6.0076e-01 -8.2996e-01 +1.2287e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (3.992000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.631352716e+00 +4.555135272e+01 +4.555135272e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.661000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.609235543e+01 -3.051764457e+01 -3.051764457e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+7 0 +2.572357245e+01 -3.088642755e+01 -3.088642755e+01 -1.4525e-01 -4.7517e+00 +5.0178e-01 -4.4964e-01 -2.3951e+00

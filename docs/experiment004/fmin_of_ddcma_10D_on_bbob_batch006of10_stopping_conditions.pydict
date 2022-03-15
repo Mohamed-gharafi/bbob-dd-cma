@@ -1,0 +1,5 @@
+# code to read in these data:
+# import ast
+# with open('fmin_of_ddcma_10D_on_bbob_batch006of10_stopping_conditions.pydict', 'rt') as file_:
+#     stoppings = ast.literal_eval(file_.read())
+{}

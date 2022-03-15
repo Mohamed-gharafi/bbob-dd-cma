@@ -1,0 +1,20 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (4.078000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.352046650e+01 +5.430046650e+01 +5.430046650e+01 +0.0000e+00 +0.0000e+00
+3 0 +4.371394748e+00 +4.515139475e+01 +4.515139475e+01 +1.4917e+00 +2.0332e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.600000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.007714199e+01 +8.477141989e+00 +8.477141989e+00 +0.0000e+00 +0.0000e+00
+2 0 +5.542407886e+00 +3.942407886e+00 +3.942407886e+00 -1.8810e+00 +8.4828e-01
+7 0 +4.492051784e+00 +2.892051784e+00 +2.892051784e+00 +3.1042e+00 +2.3600e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.708400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.459683778e+01 -3.562431622e+02 -3.562431622e+02 +0.0000e+00 +0.0000e+00
+2 0 +1.935602348e+00 -3.689043977e+02 -3.689043977e+02 +2.1629e+00 +3.3730e+00
+3 0 +7.062858072e-01 -3.701337142e+02 -3.701337142e+02 +3.7745e+00 -8.1844e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.256000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.163143595e+00 -2.639685640e+01 -2.639685640e+01 +0.0000e+00 +0.0000e+00
+2 0 +4.729264646e+00 -2.783073535e+01 -2.783073535e+01 -8.6033e-01 +6.5993e-01
+5 0 +1.256422689e+00 -3.130357731e+01 -3.130357731e+01 +1.3070e+00 +1.4202e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.154000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +9.553941812e+00 +5.249539418e+02 +5.249539418e+02 +0.0000e+00 +0.0000e+00
+3 0 +8.770475536e+00 +5.241704755e+02 +5.241704755e+02 -1.7381e+00 +8.0762e-01
+5 0 +8.416477465e+00 +5.238164775e+02 +5.238164775e+02 -4.9850e-01 +1.9169e+00
+7 0 +1.987742145e+00 +5.173877421e+02 +5.173877421e+02 -9.2682e-01 +7.2987e-01

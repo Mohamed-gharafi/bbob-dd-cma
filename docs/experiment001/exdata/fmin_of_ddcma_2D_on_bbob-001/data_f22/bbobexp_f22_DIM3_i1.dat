@@ -1,0 +1,18 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.610802346e+01 -9.838919765e+02 -9.838919765e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.769756298e+01 +1.067697563e+03 +1.067697563e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +5.763955796e+01 +1.057639558e+03 +1.057639558e+03 -9.8271e-01 -2.4847e+00 -1.1820e+00
+3 0 +4.878340455e+01 +1.048783405e+03 +1.048783405e+03 +5.2463e-01 -2.5846e+00 -2.5927e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-4.913000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.988076993e+01 +1.075076993e+01 +1.075076993e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +2.512427164e+01 -2.400572836e+01 -2.400572836e+01 -3.2561e+00 +9.7992e-01 +2.2692e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.977300000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +4.847377275e+01 +3.462037728e+02 +3.462037728e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+4 0 +4.663043786e+01 +3.443604379e+02 +3.443604379e+02 +4.7922e-01 +5.0211e+00 -4.2541e-01
+8 0 +4.364711150e+01 +3.413771115e+02 +3.413771115e+02 +2.7412e+00 +2.0284e+00 +1.2904e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.157000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.905006003e+01 +1.206200600e+02 +1.206200600e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +6.672724335e+01 +1.182972434e+02 +1.182972434e+02 -7.9627e-01 -1.4259e+00 -3.4780e+00
+3 0 +5.081306643e+01 +1.023830664e+02 +1.023830664e+02 -3.0323e+00 +1.1636e+00 +6.8819e-01
+4 0 +4.322661888e+01 +9.479661888e+01 +9.479661888e+01 -4.5447e-01 +9.8221e-01 +1.8827e+00

@@ -1,0 +1,24 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.394424455e+01 -9.360557554e+02 -9.360557554e+02 +0.0000e+00 +0.0000e+00
+2 0 +4.969047089e+01 -9.503095291e+02 -9.503095291e+02 -1.5139e+00 +8.9731e-01
+3 0 +1.061463452e+01 -9.893853655e+02 -9.893853655e+02 -1.9621e+00 -1.6556e+00
+4 0 +8.777743047e-02 -9.999122226e+02 -9.999122226e+02 +2.1264e+00 -8.0414e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.423892705e+01 +1.034238927e+03 +1.034238927e+03 +0.0000e+00 +0.0000e+00
+2 0 +1.285592661e+01 +1.012855927e+03 +1.012855927e+03 -2.2557e+00 +2.2999e+00
+6 0 +9.157415991e+00 +1.009157416e+03 +1.009157416e+03 +9.7602e-01 +3.2791e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-4.913000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.958288784e+01 +1.045288784e+01 +1.045288784e+01 +0.0000e+00 +0.0000e+00
+2 0 +1.542137902e+01 -3.370862098e+01 -3.370862098e+01 -1.1295e+00 +2.3903e+00
+3 0 +9.893027025e+00 -3.923697297e+01 -3.923697297e+01 +1.1309e+00 +2.3138e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.977300000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +4.220170774e+01 +3.399317077e+02 +3.399317077e+02 +0.0000e+00 +0.0000e+00
+2 0 +3.523019954e+01 +3.329601995e+02 +3.329601995e+02 -4.7169e-01 -5.7919e-01
+3 0 +2.805711891e+01 +3.257871189e+02 +3.257871189e+02 +1.1578e+00 -9.2901e-01
+4 0 +2.053915544e+01 +3.182691554e+02 +3.182691554e+02 -2.9375e+00 -8.2912e-01
+5 0 +2.023509790e+01 +3.179650979e+02 +3.179650979e+02 +5.4805e+00 +2.5283e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.157000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.902155869e+01 +1.205915587e+02 +1.205915587e+02 +0.0000e+00 +0.0000e+00
+2 0 +3.670731930e+01 +8.827731930e+01 +8.827731930e+01 +2.9836e+00 +1.2465e+00
+3 0 +9.348117408e+00 +6.091811741e+01 +6.091811741e+01 -1.1116e+00 +1.9105e+00
+5 0 +7.433622195e+00 +5.900362220e+01 +5.900362220e+01 +1.0057e+00 +5.4610e-01

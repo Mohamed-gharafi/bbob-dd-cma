@@ -1,0 +1,18 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.465000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +4.977431782e+03 +4.977431782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +8.481129861e+02 +3.016129861e+02 +3.016129861e+02 +3.0705e+00 +5.7846e-02 +1.4624e+00
+4 0 +2.307856654e+00 -5.441921433e+02 -5.441921433e+02 -2.1646e+00 +7.9451e-01 +2.1164e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +6.523931782e+03 +6.523931782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +4.523536184e+00 +1.004523536e+03 +1.004523536e+03 -6.0481e-01 +7.6511e-01 -1.3433e+00
+9 0 +3.513863531e+00 +1.003513864e+03 +1.003513864e+03 -8.8033e-01 +5.8715e-01 -1.3812e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.083800000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.732311782e+03 +5.732311782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.449600000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.378971782e+03 +5.378971782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+8 0 +3.871761035e+03 +3.726801035e+03 +3.726801035e+03 -6.6582e-01 -1.8068e+00 +2.5974e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-6.300000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.517631782e+03 +5.517631782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+7 0 +3.445273152e+03 +3.438973152e+03 +3.438973152e+03 -1.7057e+00 +6.6583e-01 -6.6662e-01
+8 0 +1.482211571e+02 +1.419211571e+02 +1.419211571e+02 -2.8275e-02 -3.1977e+00 -6.2490e-01
+9 0 +4.316419780e+00 -1.983580220e+00 -1.983580220e+00 -2.4034e-01 -2.1907e+00 -8.4966e-01

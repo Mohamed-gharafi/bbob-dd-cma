@@ -1,0 +1,18 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.997000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +7.202573670e+02 +7.502273670e+02 +7.502273670e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+4 0 +3.516834805e+02 +3.816534805e+02 +3.816534805e+02 +1.0026e+00 +1.3055e+00 -3.6605e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.171000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +9.345492948e+02 +8.828392948e+02 +8.828392948e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +5.649847423e+02 +5.132747423e+02 +5.132747423e+02 +7.1354e-01 +1.7788e+00 -3.6644e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-2.799500000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.696773180e+03 +1.416823180e+03 +1.416823180e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +1.532357245e+03 +1.252407245e+03 +1.252407245e+03 +2.3048e+00 -1.4950e+00 -5.6549e-01
+6 0 +1.224370727e+03 +9.444207271e+02 +9.444207271e+02 -1.4131e+00 -2.0061e+00 -4.3265e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.319900000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.905578211e+02 +1.322547821e+03 +1.322547821e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +8.453971393e+01 +1.016529714e+03 +1.016529714e+03 +1.4138e+00 +2.3689e-01 +3.3158e+00
+9 0 +5.222167864e+01 +9.842116786e+02 +9.842116786e+02 +8.7368e-01 +2.5702e-01 +2.8800e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.133100000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +7.209444707e+02 +8.342544707e+02 +8.342544707e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +5.646919554e+02 +6.780019554e+02 +6.780019554e+02 -1.0432e+00 +1.7929e+00 +2.1668e+00
+9 0 +5.486154039e+02 +6.619254039e+02 +6.619254039e+02 -1.9645e-02 +1.6629e+00 +2.0514e-01

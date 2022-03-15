@@ -1,0 +1,20 @@
+0: COCO WARNING: coco_suite(): Some keys in suite options were ignored:
+0:  year
+0: Valid keys for suite options are:
+0:  dimensions
+0:  dimension_indices
+0:  function_indices
+0:  instance_indices
+0: 
+0: COCO WARNING: coco_suite(): Some keys in suite options were ignored:
+0:  year
+0: Valid keys for suite options are:
+0:  dimensions
+0:  dimension_indices
+0:  function_indices
+0:  instance_indices
+0: 
+0: /home/randopt/mgharafi/dd-cma-coco-benchmark/experiments/experiment004/cma/s.py:13: UserWarning: Could not import matplotlib.pyplot, therefore ``cma.plot()`` etc. is not available
+0:   _warnings.warn('Could not import matplotlib.pyplot, therefore'
+0: /home/randopt/mgharafi/dd-cma-coco-benchmark/experiments/experiment004/ddcma.py:226: UserWarning: assumed no tie, but there exists
+0:   warnings.warn("assumed no tie, but there exists")

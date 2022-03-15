@@ -1,0 +1,18 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.465000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +4.977431782e+03 +4.977431782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +1.366702116e+01 -5.328329788e+02 -5.328329788e+02 -4.9870e-01 +1.6705e+00 +7.0612e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +6.523931782e+03 +6.523931782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+5 0 +1.223444834e+03 +2.223444834e+03 +2.223444834e+03 -4.0263e+00 -9.7737e-01 -1.1517e+00
+6 0 +2.812843698e+01 +1.028128437e+03 +1.028128437e+03 -6.0093e-01 +1.5314e+00 -7.1226e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.083800000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.732311782e+03 +5.732311782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +3.506891215e+03 +3.715271215e+03 +3.715271215e+03 -8.8900e-01 +7.4611e-01 +5.3039e-02
+4 0 +4.693436491e+02 +6.777236491e+02 +6.777236491e+02 -9.6198e-01 +1.7897e+00 +3.8685e-01
+7 0 +3.035233575e+02 +5.119033575e+02 +5.119033575e+02 -3.3673e+00 +5.6460e-01 +1.7422e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.449600000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.378971782e+03 +5.378971782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +9.245452233e+01 -5.250547767e+01 -5.250547767e+01 -1.4683e+00 -1.7296e+00 -5.9329e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-6.300000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.523931782e+03 +5.517631782e+03 +5.517631782e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +1.133707584e+03 +1.127407584e+03 +1.127407584e+03 +2.9576e+00 +1.6069e+00 -2.2394e+00

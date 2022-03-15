@@ -1,0 +1,20 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (7.627000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.130412458e+07 +1.130420085e+07 +1.130420085e+07 +0.0000e+00 +0.0000e+00 +0.0000e+00
+5 0 +2.546389447e+04 +2.554016447e+04 +2.554016447e+04 +8.1706e-01 -4.7455e-02 -6.6332e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-2.255000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.575630449e+06 +6.575607899e+06 +6.575607899e+06 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +5.413440612e+06 +5.413418062e+06 +5.413418062e+06 +1.0550e+00 -1.0663e+00 +4.0627e+00
+4 0 +2.180881030e+05 +2.180655530e+05 +2.180655530e+05 +1.8673e+00 +1.8817e+00 -5.5486e-02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.366000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.490355618e+05 +1.490492218e+05 +1.490492218e+05 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +5.552490234e+04 +5.553856234e+04 +5.553856234e+04 -1.8152e+00 +8.5786e-01 +2.7205e+00
+4 0 +3.791549784e+03 +3.805209784e+03 +3.805209784e+03 -1.1314e-01 +8.0941e-01 +1.7421e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.378400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.788682144e+06 +3.789619984e+06 +3.789619984e+06 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +3.486648431e+05 +3.496026831e+05 +3.496026831e+05 -8.4606e-01 +1.4043e+00 +2.9663e+00
+5 0 +6.238545312e+04 +6.332329312e+04 +6.332329312e+04 +2.5883e-01 +2.1821e-01 +2.1270e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-7.872000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.260504906e+06 +2.260426186e+06 +2.260426186e+06 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +2.127856778e+06 +2.127778058e+06 +2.127778058e+06 +2.1362e+00 -5.0530e-01 -3.4672e-01
+5 0 +2.036788370e+05 +2.036001170e+05 +2.036001170e+05 -3.6686e+00 -6.9402e-01 -1.0514e+00
+6 0 +5.106786951e+04 +5.098914951e+04 +5.098914951e+04 +1.6947e+00 -1.9700e+00 -1.3722e+00

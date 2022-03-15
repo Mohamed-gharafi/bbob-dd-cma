@@ -1,0 +1,21 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.610802346e+01 -9.838919765e+02 -9.838919765e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +6.381434966e+00 -9.936185650e+02 -9.936185650e+02 -5.6570e-01 +2.7986e-01 -6.3552e-01
+9 0 +5.578340807e+00 -9.944216592e+02 -9.944216592e+02 -1.2916e-01 +3.2348e-02 -8.6411e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.769756298e+01 +1.067697563e+03 +1.067697563e+03 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +2.149584899e+01 +1.021495849e+03 +1.021495849e+03 +7.1303e-01 +8.4182e-01 -1.5751e+00
+4 0 +6.953998956e-01 +1.000695400e+03 +1.000695400e+03 -2.2767e+00 +3.9483e-01 -2.4421e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-4.913000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.988076993e+01 +1.075076993e+01 +1.075076993e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +5.706404142e+01 +7.934041420e+00 +7.934041420e+00 +2.4108e+00 -3.1989e+00 +1.3706e+00
+4 0 +3.693392846e+01 -1.219607154e+01 -1.219607154e+01 +5.9312e-01 +2.6172e+00 -1.7439e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.977300000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +4.847377275e+01 +3.462037728e+02 +3.462037728e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.157000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.905006003e+01 +1.206200600e+02 +1.206200600e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +6.059267059e+01 +1.121626706e+02 +1.121626706e+02 +3.1148e+00 +1.8966e+00 +3.2397e+00
+6 0 +5.275104697e+01 +1.043210470e+02 +1.043210470e+02 +4.6756e+00 -2.7830e+00 -2.6857e-01
+7 0 +4.620060768e+01 +9.777060768e+01 +9.777060768e+01 +2.4393e+00 +9.7448e-01 +1.3076e+00
+8 0 +3.863895375e+01 +9.020895375e+01 +9.020895375e+01 -1.4461e+00 +1.0574e+00 +3.2558e+00
+9 0 +3.028325113e+01 +8.185325113e+01 +8.185325113e+01 +4.3562e-01 +5.6641e-01 +2.2570e+00

@@ -1,0 +1,20 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (4.078000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.352046650e+01 +5.430046650e+01 +5.430046650e+01 +0.0000e+00 +0.0000e+00
+2 0 +4.352025653e+00 +4.513202565e+01 +4.513202565e+01 +1.7919e+00 +2.1951e+00
+3 0 +2.082627769e+00 +4.286262777e+01 +4.286262777e+01 +2.7973e+00 +1.0005e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.600000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.007714199e+01 +8.477141989e+00 +8.477141989e+00 +0.0000e+00 +0.0000e+00
+2 0 +2.049502312e+00 +4.495023119e-01 +4.495023119e-01 -2.6288e+00 -3.1705e+00
+3 0 +1.959700122e+00 +3.597001224e-01 +3.597001224e-01 +2.7411e+00 -1.9859e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.708400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.459683778e+01 -3.562431622e+02 -3.562431622e+02 +0.0000e+00 +0.0000e+00
+2 0 +2.794687345e+00 -3.680453127e+02 -3.680453127e+02 -1.9871e+00 +1.6222e+00
+5 0 +2.296218806e+00 -3.685437812e+02 -3.685437812e+02 +7.8481e-01 +3.7201e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.256000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +6.163143595e+00 -2.639685640e+01 -2.639685640e+01 +0.0000e+00 +0.0000e+00
+3 0 +2.901062887e+00 -2.965893711e+01 -2.965893711e+01 -6.2065e-02 -1.8612e-01
+7 0 +1.806642133e+00 -3.075335787e+01 -3.075335787e+01 -2.5161e+00 -3.7606e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.154000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +9.553941812e+00 +5.249539418e+02 +5.249539418e+02 +0.0000e+00 +0.0000e+00
+2 0 +6.484785644e+00 +5.218847856e+02 +5.218847856e+02 -8.9531e-01 +1.0824e+00
+4 0 +8.041661094e-01 +5.162041661e+02 +5.162041661e+02 -3.7129e+00 -5.2936e-01

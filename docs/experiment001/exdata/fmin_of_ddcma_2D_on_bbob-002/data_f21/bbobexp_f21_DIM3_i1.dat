@@ -1,0 +1,18 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (4.078000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.342962888e+01 +6.420962888e+01 +6.420962888e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+5 0 +2.263730374e+01 +6.341730374e+01 +6.341730374e+01 +1.2034e+00 +1.0272e+00 +2.5485e+00
+8 0 +1.944156111e+01 +6.022156111e+01 +6.022156111e+01 -1.1353e+00 +1.2632e-01 +9.2731e-02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.600000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.240367020e+01 +1.080367020e+01 +1.080367020e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +1.119243141e-01 -1.488075686e+00 -1.488075686e+00 +9.8038e-01 -2.3564e+00 +1.1192e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.708400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.578233172e+01 -3.350576683e+02 -3.350576683e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+5 0 +1.477084907e+01 -3.560691509e+02 -3.560691509e+02 +3.4677e+00 +1.2464e+00 +2.8533e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.256000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.303999905e+01 +2.047999905e+01 +2.047999905e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +3.090349400e+01 -1.656506003e+00 -1.656506003e+00 -3.1730e-03 +1.8588e+00 -1.8447e+00
+3 0 +2.171407831e+01 -1.084592169e+01 -1.084592169e+01 +4.6473e-01 +2.1962e+00 +8.2190e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.154000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.054857278e+01 +5.359485728e+02 +5.359485728e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +1.925391159e+01 +5.346539116e+02 +5.346539116e+02 -2.7285e+00 -2.0275e+00 +1.7786e+00
+4 0 +4.686067822e+00 +5.200860678e+02 +5.200860678e+02 -9.5609e-01 -1.8116e+00 -1.7889e+00

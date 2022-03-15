@@ -1,0 +1,19 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (7.135000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.650476606e+01 +1.278547661e+02 +1.278547661e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +3.173361252e+01 +1.030836125e+02 +1.030836125e+02 +1.8395e+00 +8.3068e-01 +1.4053e+00
+7 0 +2.943751901e+01 +1.007875190e+02 +1.007875190e+02 +2.1519e-01 +2.8401e+00 -1.3864e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.552200000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.157138576e+02 -2.395061424e+02 -2.395061424e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +2.900337135e+01 -3.262166287e+02 -3.262166287e+02 -7.6647e-01 -2.3579e+00 +2.0056e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.917000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.430728932e+02 +2.422428932e+02 +2.422428932e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +2.409689360e+01 +1.232668936e+02 +1.232668936e+02 +5.6345e-01 -1.4943e+00 +1.4236e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.179100000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.600132960e+01 -4.919086704e+02 -4.919086704e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00
+4 0 +1.705095874e+01 -5.008590413e+02 -5.008590413e+02 +3.2600e+00 -1.0681e+00 -2.6546e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.721000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +8.758449571e+01 +3.037449571e+01 +3.037449571e+01 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +6.055682057e+01 +3.346820567e+00 +3.346820567e+00 +1.0846e+00 +3.0537e+00 -4.6469e+00
+4 0 +5.452003716e+01 -2.689962845e+00 -2.689962845e+00 +1.2555e+00 +6.4139e-01 -4.8085e-01
+5 0 +3.316269362e+01 -2.404730638e+01 -2.404730638e+01 +4.9405e-01 +1.4201e+00 -4.3892e-01
+8 0 +3.109230210e+01 -2.611769790e+01 -2.611769790e+01 -1.6536e+00 +3.4832e+00 -4.0962e+00

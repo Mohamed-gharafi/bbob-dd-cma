@@ -1,0 +1,21 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (7.627000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.019131247e+07 +1.019138874e+07 +1.019138874e+07 +0.0000e+00 +0.0000e+00
+2 0 +5.613503743e+06 +5.613580013e+06 +5.613580013e+06 +2.3692e+00 -1.8400e+00
+3 0 +3.781375181e+06 +3.781451451e+06 +3.781451451e+06 -1.9037e+00 -7.7539e-01
+4 0 +1.873808767e+04 +1.881435767e+04 +1.881435767e+04 -2.3994e+00 -2.8253e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-2.255000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.001445220e+07 +1.001442965e+07 +1.001442965e+07 +0.0000e+00 +0.0000e+00
+2 0 +9.791768359e+05 +9.791542859e+05 +9.791542859e+05 +4.2161e+00 +8.0106e-01
+3 0 +8.647659283e+05 +8.647433783e+05 +8.647433783e+05 +3.0384e+00 -1.8138e+00
+4 0 +5.620320459e+03 +5.597770459e+03 +5.597770459e+03 +3.7251e+00 -5.8722e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.366000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.237814535e+05 +5.237951135e+05 +5.237951135e+05 +0.0000e+00 +0.0000e+00
+2 0 +1.144104459e+05 +1.144241059e+05 +1.144241059e+05 -6.0593e-01 -1.3858e-01
+7 0 +4.539207603e+04 +4.540573603e+04 +4.540573603e+04 -1.2462e+00 -1.4874e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.378400000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +4.596821521e+06 +4.597759361e+06 +4.597759361e+06 +0.0000e+00 +0.0000e+00
+5 0 +2.543101008e+06 +2.544038848e+06 +2.544038848e+06 -1.1869e+00 -5.5192e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-7.872000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +9.358657819e+06 +9.358579099e+06 +9.358579099e+06 +0.0000e+00 +0.0000e+00
+5 0 +9.178459274e+06 +9.178380554e+06 +9.178380554e+06 +9.2283e-01 +6.1395e-01
+7 0 +7.025131843e+06 +7.025053123e+06 +7.025053123e+06 -7.2160e-01 -1.2759e+00

@@ -1,0 +1,17 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-4.620900000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.181909657e+02 -3.438990343e+02 -3.438990343e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (7.766000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.918840342e+02 +2.695440342e+02 +2.695440342e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+6 0 +1.679258302e+02 +2.455858302e+02 +2.455858302e+02 +1.0305e+00 +2.8887e+00 -1.0809e+00 +1.7736e+00 -3.8455e-01
+8 0 +8.999001612e+01 +1.676500161e+02 +1.676500161e+02 +6.2171e-01 +2.6273e-02 +1.1122e+00 +1.2566e+00 +9.1607e-01
+12 0 +6.611179320e+01 +1.437717932e+02 +1.437717932e+02 -5.3771e-01 +2.0566e+00 -2.1885e-01 +3.7125e+00 +1.6601e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.156800000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.457187506e+02 +3.613987506e+02 +3.613987506e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+2 0 +7.134937125e+01 +1.870293712e+02 +1.870293712e+02 -1.0352e+00 -4.5705e-01 -1.3863e+00 +3.3057e+00 +2.8432e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.710000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.580895641e+02 +2.543795641e+02 +2.543795641e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+8 0 +1.896208394e+02 +1.859108394e+02 +1.859108394e+02 +3.0096e+00 +1.3075e+00 -7.8343e-01 +1.1077e+00 +1.1881e+00
+10 0 +1.278361863e+02 +1.241261863e+02 +1.241261863e+02 +2.8788e-01 -1.1303e-01 -1.6046e+00 +3.4631e+00 +1.0952e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.321800000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +1.867275087e+02 +3.189075087e+02 +3.189075087e+02 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00 +0.0000e+00
+3 0 +7.759232816e+01 +2.097723282e+02 +2.097723282e+02 +1.0984e+00 +1.6022e-01 +2.6555e+00 -4.0635e+00 +2.4323e+00

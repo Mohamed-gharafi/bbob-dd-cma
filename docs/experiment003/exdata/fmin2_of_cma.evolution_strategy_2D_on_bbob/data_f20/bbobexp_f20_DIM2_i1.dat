@@ -1,0 +1,20 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-5.465000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.521515401e+03 +4.975015401e+03 +4.975015401e+03 +0.0000e+00 +0.0000e+00
+4 0 +1.526869676e+03 +9.803696762e+02 +9.803696762e+02 -1.9774e+00 +6.2289e-02
+6 0 +9.149200718e+02 +3.684200718e+02 +3.684200718e+02 +5.3189e-01 +8.3053e-01
+8 0 +3.244458931e+00 -5.432555411e+02 -5.432555411e+02 -1.0110e-01 +1.4185e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.521515401e+03 +6.521515401e+03 +6.521515401e+03 +0.0000e+00 +0.0000e+00
+3 0 +8.589291341e-01 +1.000858929e+03 +1.000858929e+03 -2.2008e+00 +9.4903e-01
+% f evaluations | g evaluations | best noise-free fitness - Fopt (2.083800000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.521515401e+03 +5.729895401e+03 +5.729895401e+03 +0.0000e+00 +0.0000e+00
+3 0 +2.612458750e+03 +2.820838750e+03 +2.820838750e+03 -1.7806e+00 -7.7507e-02
+4 0 +4.135293676e+00 +2.125152937e+02 +2.125152937e+02 -1.2131e+00 +1.5899e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.449600000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.521515401e+03 +5.376555401e+03 +5.376555401e+03 +0.0000e+00 +0.0000e+00
+2 0 +2.200302030e+02 +7.507020297e+01 +7.507020297e+01 +1.2200e+00 -1.2481e+00
+8 0 +3.495216822e+00 -1.414647832e+02 -1.414647832e+02 +1.8578e+00 -1.9390e+00
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-6.300000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +5.521515401e+03 +5.515215401e+03 +5.515215401e+03 +0.0000e+00 +0.0000e+00
+2 0 +4.029556960e+00 -2.270443040e+00 -2.270443040e+00 +7.0214e-01 -2.1521e+00
+8 0 +2.249543740e+00 -4.050456260e+00 -4.050456260e+00 +9.6310e-01 -2.0474e+00
