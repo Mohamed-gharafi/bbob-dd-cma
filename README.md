@@ -1,4 +1,4 @@
-# Data explorer for bbob-dd-cma benchmarking
+# bbob-dd-cma
 data postprocessing for ddcma benchmarking on bbob suite
 
 - [Experiment 001]('./experiment001/index.html')
