@@ -6,3 +6,4 @@ data postprocessing for ddcma benchmarking on bbob suite
 - [Experiment 003 - cma - dd0](./experiment003/index.html)
 - [Experiment 004 - ddcma - dd0](./experiment004/index.html)
 - [Comparison](./comparison/index.html)
+- [Comparison with bbob hit target inside the solver loop](./comparison-internal-target-hit/index.html)
