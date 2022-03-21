@@ -10,3 +10,4 @@ data postprocessing for ddcma benchmarking on bbob suite
 - [Comparison cma all](./comparison-cma-all/index.html)
 - [Comparison ddcma all](./comparison-ddcma-all/index.html)
 - [Comparison all](./comparison-all/index.html)
+- [Comparison restarts all](./comparison-restarts-all/index.html)
