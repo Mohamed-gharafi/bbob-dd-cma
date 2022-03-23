@@ -12,3 +12,4 @@ data postprocessing for ddcma benchmarking on bbob suite
 - [Comparison all](./comparison-all/index.html)
 - [Comparison restarts all](./comparison-restats-all/index.html)
 - [Comparison of ddcma with restarts with different initial popsize](./comparison-popddcma/index.html)
+- [Comparison of ddcma with restarts corrected code](./comparison-new-restarts-ddcma/index.html)
