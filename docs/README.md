@@ -15,5 +15,7 @@ data postprocessing for ddcma benchmarking on bbob suite
 - [Comparison of ddcma (github) with restarts with different initial popsize](./comparison-popddcma/index.html)
 - [New tests](./new-tests/index.html)
 - [Tests data to present](./data-to-present/index.html)
+
 ---
+
 - [Tests data with corrected initial conditions](./data-corrected-IC//index.html)
