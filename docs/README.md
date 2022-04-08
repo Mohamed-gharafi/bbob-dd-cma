@@ -18,4 +18,6 @@ data postprocessing for ddcma benchmarking on bbob suite
 
 ---
 
-- [Tests data with corrected initial conditions](./data-corrected-IC//index.html)
+- [Tests data with corrected initial conditions](./data-corrected-IC/index.html)
+- [Tests data without the tolstagnation for cma](./no-stag-data/index.html)
+
