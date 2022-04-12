@@ -150,14 +150,16 @@ for batch_counter, problem in enumerate(suite):  # this loop may take hours or d
         if 11 < 3:  # add solver to investigate here
             pass
         elif fmin.__name__ == 'fmin' and fmin.__module__ == 'ddcma':  # ddcma solver
-
-            output = fmin(
-                    problem, propose_x0(), 2.,
-                    F_TARGET = problem.final_target_hit,
+            stop_mark = fmin(
+                    problem, propose_x0, 2.,
+                    NUM_RESTART = 9,
                     MAX_NEVAL = evalsleft(),
                     flg_variance_update = False
                     )
-        
+            try:
+                stoppings[problem.index].extend(stop_mark)
+            except:
+                pass        
         elif fmin.__name__ == 'fmin2' and 'cma' in fmin.__module__:  # cma.fmin2:
             
             sigma = 2.
